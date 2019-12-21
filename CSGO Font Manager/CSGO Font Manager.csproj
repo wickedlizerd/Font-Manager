@@ -98,6 +98,9 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="LocateAssemblyLibrary.cs" />
+    <Compile Include="NoPaddingButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="JsonManager.cs" />

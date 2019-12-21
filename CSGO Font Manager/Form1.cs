@@ -782,5 +782,10 @@ namespace CSGO_Font_Manager
         {
             moving = false;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
