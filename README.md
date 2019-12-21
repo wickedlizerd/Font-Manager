@@ -1,5 +1,4 @@
-![Font Manager Logo](https://github.com/WilliamRagstad/Font-Manager/blob/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true)
-
+![Font Manager Logo](https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true)
 
 # Introduction
 
@@ -23,7 +22,7 @@ It features a "Drag-and-Drop" system which allows you to add new fonts in second
 
 <!--[![BananaGaming](https://img.youtube.com/vi/3xToNTtdmME/0.jpg)](https://www.youtube.com/watch?v=3xToNTtdmME)-->
 
-[![Tutorial](https://img.youtube.com/vi/MhOnvkEIy1k/0.jpg)](https://www.youtube.com/watch?v=MhOnvkEIy1k)
+![Preview](https://owo.sh/5a5i99D.png)
 
 </div>
 
@@ -31,7 +30,7 @@ It features a "Drag-and-Drop" system which allows you to add new fonts in second
 
 
 > ## Install
-> [Download the latest version from here](https://github.com/WilliamRagstad/Font-Manager/releases ).
+> [Download the latest version from here](https://github.com/Wickedlizerd/Font-Manager/releases ).
 
 
 
