@@ -1,4 +1,4 @@
-![Font Manager Logo](https://github.com/WilliamRagstad/Font-Manager/blob/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true)
+![Font Manager Logo](https://owo.sh/5a5i99D.png)
 
 
 # Introduction
