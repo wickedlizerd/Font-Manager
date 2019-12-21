@@ -29,3 +29,16 @@ C:\Users\ewr0327\Google Drive (william.ragstad@gmail.com)\- Programming Projects
 C:\Users\ewr0327\Google Drive (william.ragstad@gmail.com)\- Programming Projects\Font-Manager\CSGO Font Manager\obj\Debug\CSGO Font Manager.csproj.CoreCompileInputs.cache
 C:\Users\ewr0327\Google Drive (william.ragstad@gmail.com)\- Programming Projects\Font-Manager\CSGO Font Manager\obj\Debug\CSGO Font Manager.exe
 C:\Users\ewr0327\Google Drive (william.ragstad@gmail.com)\- Programming Projects\Font-Manager\CSGO Font Manager\obj\Debug\CSGO Font Manager.pdb
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\bin\Debug\CSGO Font Manager.exe.config
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\bin\Debug\CSGO Font Manager.exe
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\bin\Debug\CSGO Font Manager.pdb
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\obj\Debug\CSGO Font Manager.csprojAssemblyReference.cache
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\obj\Debug\CSGO_Font_Manager.Form1.resources
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\obj\Debug\CSGO_Font_Manager.Properties.Resources.resources
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\obj\Debug\CSGO Font Manager.csproj.GenerateResource.cache
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\obj\Debug\CSGO Font Manager.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\obj\Debug\CSGO Font Manager.csproj.CopyComplete
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\obj\Debug\CSGO Font Manager.exe
+C:\Users\Erik\Documents\GitHub\Font-Manager\Font-Manager\CSGO Font Manager\obj\Debug\CSGO Font Manager.pdb

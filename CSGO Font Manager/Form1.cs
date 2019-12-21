@@ -136,6 +136,7 @@ namespace CSGO_Font_Manager
         {
             showFontPreview();
             showFontPreview();
+            pictureBox4.Top = 50 + 20 * ((ListBox)sender).SelectedIndex;
         }
 
         private void showFontPreview()
@@ -200,7 +201,7 @@ namespace CSGO_Font_Manager
 
         private void addFont_button_Click(object sender, EventArgs e)
         {
-            if (Settings.showProTips)
+            if (false)//Settings.showProTips)
             {
                 MessageBox.Show("Protip: If you want you can also just drag-and-drop fonts inside the font list.", "Drag and Drop!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 Settings.showProTips = false;
@@ -216,13 +217,12 @@ namespace CSGO_Font_Manager
             switch (view)
             {
                 case FormViews.Main:
-                    title_label.Text = "CS:GO Fonts";
+                    title_label.Text = "CSFonts";
                     addFont_button.Visible = true;
                     remove_button.Visible = true;
                     trackBar1.Visible = true;
                     apply_button.Text = "Apply Selected Font";
                     donate_button.Text = "Donate ♡";
-                    donate_button.BackColor = Color.FromArgb(184, 253, 10);
 
                     refreshFontList();
                     break;
@@ -233,7 +233,6 @@ namespace CSGO_Font_Manager
                     trackBar1.Visible = false;
                     apply_button.Text = "Add Selected Font";
                     donate_button.Text = "Cancel";
-                    donate_button.BackColor = Color.FromArgb(196, 104, 92);
 
                     loadSystemFontList();
                     break;
@@ -758,6 +757,30 @@ namespace CSGO_Font_Manager
         {
             // Save settings
             SettingsManager.Save(Settings);
+        }
+
+        bool moving = false;
+        Point FormO;
+        Point MouseO;
+        private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
+        {
+            FormO = this.Location;
+            MouseO = MousePosition;
+            moving = true;
+        }
+
+        private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (moving)
+            {
+                this.Left = MousePosition.X - (MouseO.X - FormO.X);
+                this.Top = MousePosition.Y - (MouseO.Y - FormO.Y);
+            }
+        }
+
+        private void pictureBox1_MouseUp(object sender, MouseEventArgs e)
+        {
+            moving = false;
         }
     }
 }
