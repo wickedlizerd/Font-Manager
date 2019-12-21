@@ -22,7 +22,7 @@ It features a "Drag-and-Drop" system which allows you to add new fonts in second
 
 <!--[![BananaGaming](https://img.youtube.com/vi/3xToNTtdmME/0.jpg)](https://www.youtube.com/watch?v=3xToNTtdmME)-->
 
-[![Preview](https://owo.sh/5a5i99D.png)
+![Preview](https://owo.sh/5a5i99D.png)
 
 </div>
 
@@ -30,7 +30,7 @@ It features a "Drag-and-Drop" system which allows you to add new fonts in second
 
 
 > ## Install
-> [Download the latest version from here](https://github.com/WilliamRagstad/Font-Manager/releases ).
+> [Download the latest version from here](https://github.com/Wickedlizerd/Font-Manager/releases ).
 
 
 
