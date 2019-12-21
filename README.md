@@ -1,6 +1,4 @@
-<div align=center>
 ![Font Manager Logo](https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true)
-</div>
 
 # Introduction
 
